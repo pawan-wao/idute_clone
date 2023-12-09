@@ -16,7 +16,7 @@ A clone app made as assignment focus on replicating Ui as accurately as possible
 
 ## 📥 Download and install Idute app:
 Google Drive Link: Apk (Size: 20 MB): 
-[https://bit.ly/3RtaMzX](https://drive.google.com/file/d/1hjIdUrJnEgSmG7oVWZNvmfe-G22N4DdY/view?usp=sharing)
+https://drive.google.com/file/d/18KNHcdmI_QHHPk5Hvz2RPdtWZI7aT5ev/view?usp=sharing
 
 ## Installation
 
