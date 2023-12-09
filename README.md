@@ -1,5 +1,3 @@
-
-
 🎥 Introducing Idute
 
 ##  What's Idute?
@@ -14,18 +12,18 @@ A clone app made as assignment focus on replicating Ui as accurately as possible
 
 
 ## App Preview
-![idute2 0](https://github.com/pawan-wao/idute_clone/assets/119276655/e6a4cdef-1b00-46df-9b5b-a5f56582efb8)
+![idute2](https://github.com/pawan-wao/idute_clone/assets/119276655/bb7431fa-c33e-4fa3-a597-00af01be2775)
 
 ## 📥 Download and install Flutflix app:
-Google Drive Link (Size: 20 MB): 
-https://bit.ly/3RtaMzX
+Google Drive Link: Apk (Size: 20 MB): 
+[https://bit.ly/3RtaMzX](https://drive.google.com/file/d/1hjIdUrJnEgSmG7oVWZNvmfe-G22N4DdY/view?usp=sharing)
 
 ## Installation
 
 1. Clone the repository
 
 ```bash
-git clone https://github.com/pawan-wao/TravelApp_flutter.git
+git clone https://github.com/pawan-wao/idute_clone
 ```
 2. Clone the repository
 Launch Android Studio.\
