@@ -1,16 +1,42 @@
-# idute
 
-A new Flutter project.
 
-## Getting Started
+🎥 Introducing Idute
 
-This project is a starting point for a Flutter application.
+##  What's Idute?
+A clone app made as assignment focus on replicating Ui as accurately as possible using Flutter.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Tech Stack
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Flutter:** Google's UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
+
+**Android Studio:** The official IDE for Android development.
+
+
+## App Preview
+![idute2 0](https://github.com/pawan-wao/idute_clone/assets/119276655/e6a4cdef-1b00-46df-9b5b-a5f56582efb8)
+
+## 📥 Download and install Flutflix app:
+Google Drive Link (Size: 20 MB): 
+https://bit.ly/3RtaMzX
+
+## Installation
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/pawan-wao/TravelApp_flutter.git
+```
+2. Clone the repository
+Launch Android Studio.\
+Select Open an existing Android Studio project.\
+Browse and select the flutterFit directory.\
+Click Open.    
+
+3.Run the app:\
+Connect a device or use an emulator.\
+Click on the Run button in Android Studio.
+
+## Feedback
+If you have any feedback, please reach out to me at waonicegood@gmail.com
+
