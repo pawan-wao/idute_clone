@@ -14,7 +14,7 @@ A clone app made as assignment focus on replicating Ui as accurately as possible
 ## App Preview
 ![idute2](https://github.com/pawan-wao/idute_clone/assets/119276655/bb7431fa-c33e-4fa3-a597-00af01be2775)
 
-## 📥 Download and install Flutflix app:
+## 📥 Download and install Idute app:
 Google Drive Link: Apk (Size: 20 MB): 
 [https://bit.ly/3RtaMzX](https://drive.google.com/file/d/1hjIdUrJnEgSmG7oVWZNvmfe-G22N4DdY/view?usp=sharing)
 
